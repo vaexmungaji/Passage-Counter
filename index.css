@@ -6,8 +6,9 @@ body {
 .conteiner{
     display: block;
     margin: auto;
-    width: 100px;
+    width: 300px;
     height: auto;
+    border-radius: 15px;
     background-image: url("Capturar.PNG");
     background-size: cover;
 }
